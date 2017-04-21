@@ -1,0 +1,14 @@
+C:\Users\Elyos ceasar\Desktop\algorithem\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Elyos ceasar\Desktop\algorithem\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Elyos ceasar\Desktop\algorithem\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Elyos ceasar\Desktop\algorithem\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Elyos ceasar\Desktop\algorithem\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Elyos ceasar\Desktop\algorithem\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Elyos ceasar\Desktop\algorithem\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Elyos ceasar\Desktop\algorithem\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Elyos ceasar\Desktop\algorithem\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\Elyos ceasar\Desktop\algorithem\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Elyos ceasar\Desktop\algorithem\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Elyos ceasar\Desktop\algorithem\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Elyos ceasar\Desktop\algorithem\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Elyos ceasar\Desktop\algorithem\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
